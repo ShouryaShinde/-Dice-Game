@@ -9,7 +9,7 @@ A simple web-based dice game built using HTML, CSS, and JavaScript.
 - The heading displays the winner or declares a draw.
 
 ## 📁 Project Structure
-
+'''text
 your-project/
 │
 ├── dicee.html
@@ -22,6 +22,7 @@ your-project/
    ├── dice4.png
    ├── dice5.png
    └── dice6.png
+'''
 
 ## 🛠 Technologies Used
 
