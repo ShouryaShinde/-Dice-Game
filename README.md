@@ -15,7 +15,7 @@ your-project/
 ├── dicee.html
 ├── index.js
 ├── styles.css
-├── images/
+└── images/
    ├── dice1.png
    ├── dice2.png
    ├── dice3.png
